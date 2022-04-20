@@ -1,0 +1,2 @@
+# Bank-design-project-Object-Oriented-Development-_Week1_assessment
+You will be writing code for an application which will be used to generate and organize data for a bank. We want to create, manipulate, and track different types of bank accounts, different types of customers, and the connections between accounts and users.  You will be working from a UML diagram showing all of the required classes, attributes and methods. Tests for the code have already been written. Your job is to create all of the classes shown in the UML and then write code which passes all of the tests.
